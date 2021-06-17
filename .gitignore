@@ -1,0 +1,3 @@
+# Project exclude paths
+/govorushka_client/target/
+/govorushka_server/target/
